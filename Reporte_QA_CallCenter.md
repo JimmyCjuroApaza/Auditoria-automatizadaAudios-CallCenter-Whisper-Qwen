@@ -1,0 +1,19 @@
+# 📊 Reporte Ejecutivo de Calidad (QA) - Auditoría Automatizada
+
+**Fecha:** 2026-05-13 11:45:04
+
+| Archivo     | Riesgo_Fuga_Churn   | Cumplimiento_Venta   | Sentimiento   | Snippet                                                                                                 |
+|:------------|:--------------------|:---------------------|:--------------|:--------------------------------------------------------------------------------------------------------|
+| audio1.wav  | ALTO                | No                   | Negativo      | Buenas tardes, le saluda Michael Jogia de la compañía Intel. Tengo el gusto de comunicarme con el ti... |
+| audio10.wav | Bajo                | Sí                   | Positivo      | Buenas tardes por la señorita. Mucho gusto, señorita. Mi nombre es El Comunico de Loques. Esto es po... |
+| audio11.wav | ALTO                | No                   | Negativo      | ¡Penigro! ¡Es un rigurro! ¡Es increíble! ¡Es increíble! ¡Es increíble! ¡Es increíble! ¿No se ama la ... |
+| audio12.wav | ALTO                | No                   | Negativo      | seinen inerador abel �antagol otro pidió globe debate Firstly, meses ¿Pues según hace como un mes o ... |
+| audio13.wav | Bajo                | Sí                   | Positivo      | ¿Cómo está, señor Jorge? ¿Le habla de más intervíos? Sí... ya, dime. ¿Le se llama directamente ayer?... |
+| audio2.wav  | ALTO                | No                   | Negativo      | Bueno, ¿cómo se encuentra? Me llamo Jeffrey Michetti y vengo a darle una súper promoción de parte de... |
+| audio3.wav  | Bajo                | Sí                   | Neutral       | Ok, ya estamos por terminar solamente aceptar los términos y condiciones. No, no los he leído. Si mi... |
+| audio4.wav  | Bajo                | Sí                   | Positivo      | hola buenas tardes buenas tardes buenas tardes qué tal estamos llamando para darle una oferta en el ... |
+| audio5.wav  | Bajo                | Sí                   | Neutral       | Hola, gracias por llamar al servicio del cliente. Mi nombre es María. ¿Cómo le puedes distir? No rec... |
+| audio6.wav  | Bajo                | No                   | Negativo      | Si! ¡Hasta la semana! de la www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org ww... |
+| audio7.wav  | Bajo                | Sí                   | Positivo      | Hola, buenas tardes. Mi nombre es... ¿cuánto en día de hoy? Hola, bienvenido. Gracias. Esa me alegra... |
+| audio8.wav  | Bajo                | Sí                   | Positivo      | Hola. Si, ya hablas. Hola. Hola. Hola. Hola. Hola. Hola. Hola. Si, ya hablas. Hola. Hola. Hola. Hola... |
+| audio9.wav  | Bajo                | Sí                   | Negativo      | No, no. No. No, no, no, no. ¿Qué es? No, no, no, no. ¿Qué es? No, no. ¿Qué es? No, no, no, no. ¡No! ... |
