@@ -64,7 +64,7 @@ python3 auditor.py
 
 El sistema generará automáticamente un archivo `Reporte_QA_CallCenter.md` y un `.csv` con la siguiente estructura:
 
-![reporte](https://img/reporte.png)
+![reporte](img/reporte.png)
 
 ---
 
