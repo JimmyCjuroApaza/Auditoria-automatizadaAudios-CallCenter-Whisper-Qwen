@@ -1,0 +1,616 @@
+{
+    "metadatos": {
+        "archivo_original": "audio13.wav",
+        "idioma_detectado": "es",
+        "confianza_idioma": 1,
+        "duracion_segundos": 670.0
+    },
+    "transcripcion_texto": "¿Cómo está, señor Jorge? ¿Le habla de matrimonio intervíos? Sí, ya dime. ¿Le se llamó directamente ayer? ¿No pudo hacer la transacción? ¿Ayer? ¿Sí la hice? ¿Se la hizo pero no se ha reflejado acá? ¿Ah? ¿Se la hizo pero no se ha reflejado acá? ¿Ah? ¿Usted tiene el comprobante? Si lo tengo y lo mandé en la foto. Ok, pero directamente usted habla del comprobante con la que usted trabajó con la señora Aura Cárdenas, ¿no? Sí, sí. Ok, entonces ¿no se acuerda que convertamos para el sistema automático? Claro que ahí te mandé los 106 mil y tanto. Ok, verificia qué cantidad usted envió. Por favor. Dame un segundo. Dame un segundo, un segundo, un segundo. Voy a ponerme los lentes. Ok. Así no veo de cerca. Perdón. 106 mil 170 pesos. No, 173. ¿Ah? Señor, eran 106 mil 173. Correcto, correcto, pero ahí me descuento en tres pesos. Según la ley 20 mil y tanto. Porque yo hice un depósito de 106 mil 173 pesos. Pero después de la ley 20... El código, el código de aquí tenemos clientes, sensación, identificación, monta... Código identificado. Código 25. Exacto. Ese es el código, ¿sí? Ok. Si usted tenía que colocar el valor exacto, señor, eran 106 mil 173 por eso es que no se ha reflejado acá. ¿Me pueden mandar el comprobante, por favor? ¿Ah? ¿Me pueden usted mandar el comprobante? Voy a hacer lo posible por mandarte lo que yo soy malo con estas cosas. Antes me ha ido al mismo correo, por favor. Sí, sí, ayer se lo mandé. ¿El que se hizo en la noche? ¿Usted lo envió? Sí, lo envíe, fui a un lado, un caballero que me da su petámica y yo no lo puedo hacer. Él me lo hizo al tiro. Ayer el viejo fue temprano ante las siete como las seis y medio por ahí. Ok. Da un momentito, por favor. A las seis, a las seis tres nueve. A las seis tres nueve lo mandé. Ok, da un momentito, por favor. A las seis tres nueve. A las seis tres nueve. Un momento, sí? Sí. Una caballera, ¿sí? Sí. ¿Ya? Sí. Sí. Sí. Sí. Sí. Sí. Sí. Sí. Sí. Sí. Sí. Sí, sí. Mira, yo no sabía que se descontaban tres pesos y tenían importantes tres pesos, uno lo había puesto de cinco de los más. No, es que tiene que ser el valor exactamente el mismo. No, no, pero bueno, se vino, no sabía porque ahí me di cuenta que... se fue abajo, fue Google la ley 20,9,58... me descontaron tus pesos, pero yo no nos sabía, si no, le habría puesto más. No, este no puede ponerle de más, tiene que ser el mismo valor que yo le indiqué, 163. Si tú revistas el vale, dice 106.173, pero abajito dice según la ley tanto, menos tres. Pero cuánto se pagó, pero cuánto se pagó? 176.173, y en el vale que te ha llegado ahí está eso. Ok, dame un momento. De su piezo. Un momento, un momento. Revisale. Revisale más. Tal cliente, la transacción, el código autorizado, la empresa, trácepi.py, cd, convenio, identificador, monto, la ley, monto total, tipo de deuda. Sursos son en el vale. Yo justo me pidí a la señora de buena onda y me hizo la valentea, porque aquí en Cajón es difícil encontrar una caza de cima que te acepte 50, 100, 100. Un momento, sí. Un momento. Me llegó el comprobante, me llegó que tú pagaste 106.170, tengo que investigar directamente, ¿me vas a reportar eso? Ya mira, ¿tiene el comprobante de la caza de cima? Sí, yo lo tengo, me acabo de llegar. Pinto Hernánguez, Lilian Marisol. Sí, ya tengo todo. Yo voy a revisar el pago directamente, yo te voy a avisar desde que se había visualizado. Bien. Vamos a investigar directamente sobre el pago. Ok, entonces yo te llamo desde que se todo listo aquí. Yo te puse lo que tuviste y después abajito salen descuentos de volar al tanto, y así yo no lo sabía. Ok, ¿cuánto pagaste ya? 176, 173. 176, 173. Sí, ahí está el igual. Yo te manté. El reviso de la caza de cima. Esta vez. Ok. No, pues por tres pesos no me voy a perder todo. Bueno, está bien. Déjame investigar directamente, yo te llamo, ¿eh? Sí, sí, sí. Ya está. Ya, te perro, pues. Un momento.",
+    "timeline": [
+        {
+            "inicio": 0.0,
+            "fin": 10.0,
+            "texto": "¿Cómo está, señor Jorge? ¿Le habla de matrimonio intervíos?"
+        },
+        {
+            "inicio": 10.0,
+            "fin": 11.0,
+            "texto": "Sí, ya dime."
+        },
+        {
+            "inicio": 11.0,
+            "fin": 16.0,
+            "texto": "¿Le se llamó directamente ayer? ¿No pudo hacer la transacción?"
+        },
+        {
+            "inicio": 16.0,
+            "fin": 18.0,
+            "texto": "¿Ayer? ¿Sí la hice?"
+        },
+        {
+            "inicio": 18.0,
+            "fin": 23.0,
+            "texto": "¿Se la hizo pero no se ha reflejado acá?"
+        },
+        {
+            "inicio": 23.0,
+            "fin": 24.0,
+            "texto": "¿Ah?"
+        },
+        {
+            "inicio": 25.0,
+            "fin": 28.0,
+            "texto": "¿Se la hizo pero no se ha reflejado acá?"
+        },
+        {
+            "inicio": 28.0,
+            "fin": 29.0,
+            "texto": "¿Ah?"
+        },
+        {
+            "inicio": 29.0,
+            "fin": 32.0,
+            "texto": "¿Usted tiene el comprobante?"
+        },
+        {
+            "inicio": 32.0,
+            "fin": 35.0,
+            "texto": "Si lo tengo y lo mandé en la foto."
+        },
+        {
+            "inicio": 35.0,
+            "fin": 43.0,
+            "texto": "Ok, pero directamente usted habla del comprobante con la que usted trabajó con la señora Aura Cárdenas, ¿no?"
+        },
+        {
+            "inicio": 43.0,
+            "fin": 44.0,
+            "texto": "Sí, sí."
+        },
+        {
+            "inicio": 44.0,
+            "fin": 50.0,
+            "texto": "Ok, entonces ¿no se acuerda que convertamos para el sistema automático?"
+        },
+        {
+            "inicio": 51.0,
+            "fin": 55.0,
+            "texto": "Claro que ahí te mandé los 106 mil y tanto."
+        },
+        {
+            "inicio": 55.0,
+            "fin": 59.0,
+            "texto": "Ok, verificia qué cantidad usted envió."
+        },
+        {
+            "inicio": 59.0,
+            "fin": 60.0,
+            "texto": "Por favor."
+        },
+        {
+            "inicio": 60.0,
+            "fin": 63.0,
+            "texto": "Dame un segundo."
+        },
+        {
+            "inicio": 63.0,
+            "fin": 66.0,
+            "texto": "Dame un segundo, un segundo, un segundo."
+        },
+        {
+            "inicio": 66.0,
+            "fin": 69.0,
+            "texto": "Voy a ponerme los lentes."
+        },
+        {
+            "inicio": 69.0,
+            "fin": 70.0,
+            "texto": "Ok."
+        },
+        {
+            "inicio": 70.0,
+            "fin": 73.0,
+            "texto": "Así no veo de cerca."
+        },
+        {
+            "inicio": 81.0,
+            "fin": 83.0,
+            "texto": "Perdón."
+        },
+        {
+            "inicio": 86.0,
+            "fin": 89.0,
+            "texto": "106 mil 170 pesos."
+        },
+        {
+            "inicio": 89.0,
+            "fin": 92.0,
+            "texto": "No, 173."
+        },
+        {
+            "inicio": 92.0,
+            "fin": 93.0,
+            "texto": "¿Ah?"
+        },
+        {
+            "inicio": 93.0,
+            "fin": 98.0,
+            "texto": "Señor, eran 106 mil 173."
+        },
+        {
+            "inicio": 98.0,
+            "fin": 103.0,
+            "texto": "Correcto, correcto, pero ahí me descuento en tres pesos."
+        },
+        {
+            "inicio": 103.0,
+            "fin": 106.0,
+            "texto": "Según la ley 20 mil y tanto."
+        },
+        {
+            "inicio": 107.0,
+            "fin": 113.0,
+            "texto": "Porque yo hice un depósito de 106 mil 173 pesos."
+        },
+        {
+            "inicio": 113.0,
+            "fin": 117.0,
+            "texto": "Pero después de la ley 20..."
+        },
+        {
+            "inicio": 117.0,
+            "fin": 127.0,
+            "texto": "El código, el código de aquí tenemos clientes, sensación, identificación, monta..."
+        },
+        {
+            "inicio": 127.0,
+            "fin": 129.0,
+            "texto": "Código identificado."
+        },
+        {
+            "inicio": 129.0,
+            "fin": 131.0,
+            "texto": "Código 25."
+        },
+        {
+            "inicio": 131.0,
+            "fin": 133.0,
+            "texto": "Exacto."
+        },
+        {
+            "inicio": 133.0,
+            "fin": 135.0,
+            "texto": "Ese es el código, ¿sí?"
+        },
+        {
+            "inicio": 138.0,
+            "fin": 139.0,
+            "texto": "Ok."
+        },
+        {
+            "inicio": 139.0,
+            "fin": 143.0,
+            "texto": "Si usted tenía que colocar el valor exacto, señor,"
+        },
+        {
+            "inicio": 143.0,
+            "fin": 148.0,
+            "texto": "eran 106 mil 173 por eso es que no se ha reflejado acá."
+        },
+        {
+            "inicio": 148.0,
+            "fin": 151.0,
+            "texto": "¿Me pueden mandar el comprobante, por favor?"
+        },
+        {
+            "inicio": 151.0,
+            "fin": 152.0,
+            "texto": "¿Ah?"
+        },
+        {
+            "inicio": 152.0,
+            "fin": 155.0,
+            "texto": "¿Me pueden usted mandar el comprobante?"
+        },
+        {
+            "inicio": 155.0,
+            "fin": 160.0,
+            "texto": "Voy a hacer lo posible por mandarte lo que yo soy malo con estas cosas."
+        },
+        {
+            "inicio": 160.0,
+            "fin": 163.0,
+            "texto": "Antes me ha ido al mismo correo, por favor."
+        },
+        {
+            "inicio": 163.0,
+            "fin": 166.0,
+            "texto": "Sí, sí, ayer se lo mandé."
+        },
+        {
+            "inicio": 166.0,
+            "fin": 169.0,
+            "texto": "¿El que se hizo en la noche? ¿Usted lo envió?"
+        },
+        {
+            "inicio": 169.0,
+            "fin": 176.0,
+            "texto": "Sí, lo envíe, fui a un lado, un caballero que me da su petámica y yo no lo puedo hacer."
+        },
+        {
+            "inicio": 176.0,
+            "fin": 178.0,
+            "texto": "Él me lo hizo al tiro."
+        },
+        {
+            "inicio": 178.0,
+            "fin": 182.0,
+            "texto": "Ayer el viejo fue temprano ante las siete como las seis y medio por ahí."
+        },
+        {
+            "inicio": 182.0,
+            "fin": 183.0,
+            "texto": "Ok."
+        },
+        {
+            "inicio": 183.0,
+            "fin": 185.0,
+            "texto": "Da un momentito, por favor."
+        },
+        {
+            "inicio": 185.0,
+            "fin": 189.0,
+            "texto": "A las seis, a las seis tres nueve."
+        },
+        {
+            "inicio": 189.0,
+            "fin": 192.0,
+            "texto": "A las seis tres nueve lo mandé."
+        },
+        {
+            "inicio": 200.0,
+            "fin": 203.0,
+            "texto": "Ok, da un momentito, por favor."
+        },
+        {
+            "inicio": 219.0,
+            "fin": 221.0,
+            "texto": "A las seis tres nueve."
+        },
+        {
+            "inicio": 249.0,
+            "fin": 251.0,
+            "texto": "A las seis tres nueve."
+        },
+        {
+            "inicio": 279.0,
+            "fin": 281.0,
+            "texto": "Un momento, sí?"
+        },
+        {
+            "inicio": 281.0,
+            "fin": 283.0,
+            "texto": "Sí."
+        },
+        {
+            "inicio": 309.0,
+            "fin": 311.0,
+            "texto": "Una caballera, ¿sí?"
+        },
+        {
+            "inicio": 311.0,
+            "fin": 313.0,
+            "texto": "Sí."
+        },
+        {
+            "inicio": 313.0,
+            "fin": 315.0,
+            "texto": "¿Ya?"
+        },
+        {
+            "inicio": 315.0,
+            "fin": 317.0,
+            "texto": "Sí."
+        },
+        {
+            "inicio": 317.0,
+            "fin": 319.0,
+            "texto": "Sí."
+        },
+        {
+            "inicio": 319.0,
+            "fin": 321.0,
+            "texto": "Sí."
+        },
+        {
+            "inicio": 321.0,
+            "fin": 323.0,
+            "texto": "Sí."
+        },
+        {
+            "inicio": 323.0,
+            "fin": 325.0,
+            "texto": "Sí."
+        },
+        {
+            "inicio": 325.0,
+            "fin": 327.0,
+            "texto": "Sí."
+        },
+        {
+            "inicio": 327.0,
+            "fin": 329.0,
+            "texto": "Sí."
+        },
+        {
+            "inicio": 329.0,
+            "fin": 331.0,
+            "texto": "Sí."
+        },
+        {
+            "inicio": 331.0,
+            "fin": 333.0,
+            "texto": "Sí."
+        },
+        {
+            "inicio": 333.0,
+            "fin": 335.0,
+            "texto": "Sí."
+        },
+        {
+            "inicio": 335.0,
+            "fin": 337.0,
+            "texto": "Sí."
+        },
+        {
+            "inicio": 337.0,
+            "fin": 341.0,
+            "texto": "Sí, sí."
+        },
+        {
+            "inicio": 341.0,
+            "fin": 347.0,
+            "texto": "Mira, yo no sabía que se descontaban tres pesos y tenían importantes tres pesos,"
+        },
+        {
+            "inicio": 347.0,
+            "fin": 349.0,
+            "texto": "uno lo había puesto de cinco de los más."
+        },
+        {
+            "inicio": 349.0,
+            "fin": 353.0,
+            "texto": "No, es que tiene que ser el valor exactamente el mismo."
+        },
+        {
+            "inicio": 353.0,
+            "fin": 358.0,
+            "texto": "No, no, pero bueno, se vino, no sabía porque ahí me di cuenta que..."
+        },
+        {
+            "inicio": 358.0,
+            "fin": 363.0,
+            "texto": "se fue abajo, fue Google la ley 20,9,58..."
+        },
+        {
+            "inicio": 363.0,
+            "fin": 368.0,
+            "texto": "me descontaron tus pesos, pero yo no nos sabía, si no, le habría puesto más."
+        },
+        {
+            "inicio": 368.0,
+            "fin": 377.0,
+            "texto": "No, este no puede ponerle de más, tiene que ser el mismo valor que yo le indiqué, 163."
+        },
+        {
+            "inicio": 377.0,
+            "fin": 387.0,
+            "texto": "Si tú revistas el vale, dice 106.173, pero abajito dice según la ley tanto, menos tres."
+        },
+        {
+            "inicio": 388.0,
+            "fin": 392.0,
+            "texto": "Pero cuánto se pagó, pero cuánto se pagó?"
+        },
+        {
+            "inicio": 392.0,
+            "fin": 400.0,
+            "texto": "176.173, y en el vale que te ha llegado ahí está eso."
+        },
+        {
+            "inicio": 400.0,
+            "fin": 402.0,
+            "texto": "Ok, dame un momento."
+        },
+        {
+            "inicio": 402.0,
+            "fin": 403.0,
+            "texto": "De su piezo."
+        },
+        {
+            "inicio": 403.0,
+            "fin": 405.0,
+            "texto": "Un momento, un momento."
+        },
+        {
+            "inicio": 405.0,
+            "fin": 406.0,
+            "texto": "Revisale."
+        },
+        {
+            "inicio": 406.0,
+            "fin": 408.0,
+            "texto": "Revisale más."
+        },
+        {
+            "inicio": 409.0,
+            "fin": 416.0,
+            "texto": "Tal cliente, la transacción, el código autorizado, la empresa,"
+        },
+        {
+            "inicio": 416.0,
+            "fin": 427.0,
+            "texto": "trácepi.py, cd, convenio, identificador, monto, la ley, monto total, tipo de deuda."
+        },
+        {
+            "inicio": 427.0,
+            "fin": 432.0,
+            "texto": "Sursos son en el vale."
+        },
+        {
+            "inicio": 432.0,
+            "fin": 438.0,
+            "texto": "Yo justo me pidí a la señora de buena onda y me hizo la valentea, porque aquí en Cajón"
+        },
+        {
+            "inicio": 438.0,
+            "fin": 444.0,
+            "texto": "es difícil encontrar una caza de cima que te acepte 50, 100, 100."
+        },
+        {
+            "inicio": 522.0,
+            "fin": 542.0,
+            "texto": "Un momento, sí."
+        },
+        {
+            "inicio": 542.0,
+            "fin": 570.0,
+            "texto": "Un momento."
+        },
+        {
+            "inicio": 570.0,
+            "fin": 581.0,
+            "texto": "Me llegó el comprobante, me llegó que tú pagaste 106.170, tengo que investigar directamente,"
+        },
+        {
+            "inicio": 581.0,
+            "fin": 585.0,
+            "texto": "¿me vas a reportar eso?"
+        },
+        {
+            "inicio": 585.0,
+            "fin": 589.0,
+            "texto": "Ya mira, ¿tiene el comprobante de la caza de cima?"
+        },
+        {
+            "inicio": 589.0,
+            "fin": 591.0,
+            "texto": "Sí, yo lo tengo, me acabo de llegar."
+        },
+        {
+            "inicio": 591.0,
+            "fin": 596.0,
+            "texto": "Pinto Hernánguez, Lilian Marisol."
+        },
+        {
+            "inicio": 596.0,
+            "fin": 600.0,
+            "texto": "Sí, ya tengo todo."
+        },
+        {
+            "inicio": 600.0,
+            "fin": 605.0,
+            "texto": "Yo voy a revisar el pago directamente, yo te voy a avisar desde que se había visualizado."
+        },
+        {
+            "inicio": 605.0,
+            "fin": 607.0,
+            "texto": "Bien."
+        },
+        {
+            "inicio": 607.0,
+            "fin": 610.0,
+            "texto": "Vamos a investigar directamente sobre el pago."
+        },
+        {
+            "inicio": 610.0,
+            "fin": 613.0,
+            "texto": "Ok, entonces yo te llamo desde que se todo listo aquí."
+        },
+        {
+            "inicio": 613.0,
+            "fin": 618.0,
+            "texto": "Yo te puse lo que tuviste y después abajito salen descuentos de volar al tanto,"
+        },
+        {
+            "inicio": 618.0,
+            "fin": 620.0,
+            "texto": "y así yo no lo sabía."
+        },
+        {
+            "inicio": 620.0,
+            "fin": 622.0,
+            "texto": "Ok, ¿cuánto pagaste ya?"
+        },
+        {
+            "inicio": 622.0,
+            "fin": 626.0,
+            "texto": "176, 173."
+        },
+        {
+            "inicio": 626.0,
+            "fin": 628.0,
+            "texto": "176, 173."
+        },
+        {
+            "inicio": 628.0,
+            "fin": 630.0,
+            "texto": "Sí, ahí está el igual."
+        },
+        {
+            "inicio": 630.0,
+            "fin": 632.0,
+            "texto": "Yo te manté."
+        },
+        {
+            "inicio": 632.0,
+            "fin": 634.0,
+            "texto": "El reviso de la caza de cima."
+        },
+        {
+            "inicio": 634.0,
+            "fin": 636.0,
+            "texto": "Esta vez."
+        },
+        {
+            "inicio": 636.0,
+            "fin": 638.0,
+            "texto": "Ok."
+        },
+        {
+            "inicio": 638.0,
+            "fin": 643.0,
+            "texto": "No, pues por tres pesos no me voy a perder todo."
+        },
+        {
+            "inicio": 643.0,
+            "fin": 645.0,
+            "texto": "Bueno, está bien."
+        },
+        {
+            "inicio": 645.0,
+            "fin": 647.0,
+            "texto": "Déjame investigar directamente, yo te llamo, ¿eh?"
+        },
+        {
+            "inicio": 647.0,
+            "fin": 650.0,
+            "texto": "Sí, sí, sí."
+        },
+        {
+            "inicio": 650.0,
+            "fin": 652.0,
+            "texto": "Ya está."
+        },
+        {
+            "inicio": 660.0,
+            "fin": 662.0,
+            "texto": "Ya, te perro, pues."
+        },
+        {
+            "inicio": 668.0,
+            "fin": 670.0,
+            "texto": "Un momento."
+        }
+    ]
+}

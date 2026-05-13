@@ -1,0 +1,291 @@
+{
+    "metadatos": {
+        "archivo_original": "audio11.wav",
+        "idioma_detectado": "es",
+        "confianza_idioma": 1,
+        "duracion_segundos": 485.15999999999997
+    },
+    "transcripcion_texto": "¿Qué pasa? No, Mami. No, Mami. No me lo puedo hacer. No. No, Mami. No. No. No. No. No. ¿Qué pasa? ¿Qué pasa? ¿Qué pasa? ¿Pues según hace como un mes o dos meses, supuestamente se hizo, iban a dar otros beneficios y según iban a dar otro equipo, pero no sé, dicen que mi hijo tiene una deuda y que tiene que pagar, el caso es de que yo pagaba 355 y después ya por haber hecho eso me aumentó a 385, entonces en vez de tener un beneficio me afectó porque ahora estoy pagando más ni me cambiaron el equipo ni nada. Pues ni sé la verdad es porque según, o sea yo iba a pagar 395 ya con el equipo y todo y con la que me iba a dar más digas y no sé qué tal. El caso que se hizo todo, les mandé lo que me pidieron, mi hijo les mandé la copia de su prevencial, un confirmante de domicilio actualizado, se hizo todo lo que se hiciera pero no, después me dijeron que no porque había una deuda y que si no pagaba la deuda pues no me daban el equipo y dije bueno, entonces le dije yo a la señorita que me hizo todo algo pues entonces sabe que regréseme a mi plan como estaba, si no me dan el equipo bueno no hay problema pero yo voy a seguir pagando lo que sigo pagando hasta ahora porque de hecho esa línea ya tiene varios años que se está pagando. Yo la señorita que no me dijo la señorita que mi hijo porque mi hijo tiene una deuda de otra línea, no sé, lo que pasa es que mi hijo no está aquí, señor, después me dejó su teléfono, dice ahí tú lo sigues pagando y yo lo he pagado, yo mes con mes pago la línea. Eso fue lo que, lo que me informó la persona señorita y ya bueno ya lo mandé todo, lo hizo todo pero ya se me dijo que no porque tenía yo que pagar el adeudo de mi hijo si no no me podían dar el equipo, entonces dije no, entonces sabe qué, entonces mejor por regréseme como estaba pero le digo que yo pagaba 155 y ahora pago más, ahora pago 385 y no me no me dieron nada. El equipo ni beneficio ni nada entonces qué bueno así me quedo, ya que tomo se tiene que pagar y es que para liberar la línea, porque yo lo había comentado a mi hijo pues hay que liberar la línea pero tiene que estar él para ir allá a liberar la línea para que ya podamos cambiarnos de telefonía. Lo que no queremos es perder el número, porque yo tengo un negocio y este número lo tienen todos mis clientes. Pero cómo se podría hacer? Si lo que yo no quiero es perder este número señorita porque le digo que como hoy tengo clientes entonces todos mis clientes tienen este número, entonces digo lo de menos es agarrar y ya no lo utilicen, compro un chip y utilizo otro teléfono pero yo no quiero perder esta línea, no la quiero perder porque todos mis clientes lo tienen y pues es así como se comunican conmigo mis clientes. Sí porque como robante del domicilio pues no tengo porque de hecho está en la línea de aquí del domicilio, está nombre de mi hijo. Sí porque le digo que el comprobando la línea de la casa es a nombre de, tiene que estar a mi nombre. No hay ningún problema, o sea yo le mando todo lo que me pido, le digo que yo así lo hice con la otra señorita que me estuvo atendiendo, le mandé mi la copia, bueno la copia de mis clientes del lector y le mandé el comprobante del domicilio y unos datos que me pidió",
+    "timeline": [
+        {
+            "inicio": 0.0,
+            "fin": 2.0,
+            "texto": "¿Qué pasa?"
+        },
+        {
+            "inicio": 2.0,
+            "fin": 4.0,
+            "texto": "No, Mami."
+        },
+        {
+            "inicio": 4.0,
+            "fin": 6.0,
+            "texto": "No, Mami."
+        },
+        {
+            "inicio": 6.0,
+            "fin": 8.0,
+            "texto": "No me lo puedo hacer."
+        },
+        {
+            "inicio": 8.0,
+            "fin": 10.0,
+            "texto": "No."
+        },
+        {
+            "inicio": 10.0,
+            "fin": 12.0,
+            "texto": "No, Mami."
+        },
+        {
+            "inicio": 12.0,
+            "fin": 14.0,
+            "texto": "No."
+        },
+        {
+            "inicio": 14.0,
+            "fin": 16.0,
+            "texto": "No."
+        },
+        {
+            "inicio": 16.0,
+            "fin": 18.0,
+            "texto": "No."
+        },
+        {
+            "inicio": 18.0,
+            "fin": 20.0,
+            "texto": "No."
+        },
+        {
+            "inicio": 20.0,
+            "fin": 22.0,
+            "texto": "No."
+        },
+        {
+            "inicio": 22.0,
+            "fin": 24.0,
+            "texto": "¿Qué pasa?"
+        },
+        {
+            "inicio": 24.0,
+            "fin": 26.0,
+            "texto": "¿Qué pasa?"
+        },
+        {
+            "inicio": 26.0,
+            "fin": 28.0,
+            "texto": "¿Qué pasa?"
+        },
+        {
+            "inicio": 28.0,
+            "fin": 50.8,
+            "texto": "¿Pues según hace como un mes o dos meses, supuestamente se hizo, iban a dar otros beneficios"
+        },
+        {
+            "inicio": 50.8,
+            "fin": 56.36,
+            "texto": "y según iban a dar otro equipo, pero no sé, dicen que mi hijo tiene una deuda y que"
+        },
+        {
+            "inicio": 56.36,
+            "fin": 66.04,
+            "texto": "tiene que pagar, el caso es de que yo pagaba 355 y después ya por haber hecho eso me aumentó"
+        },
+        {
+            "inicio": 66.04,
+            "fin": 72.52,
+            "texto": "a 385, entonces en vez de tener un beneficio me afectó porque ahora estoy pagando más"
+        },
+        {
+            "inicio": 72.52,
+            "fin": 74.72,
+            "texto": "ni me cambiaron el equipo ni nada."
+        },
+        {
+            "inicio": 86.36,
+            "fin": 102.36,
+            "texto": "Pues ni sé la verdad es porque según, o sea yo iba a pagar 395 ya con el equipo y todo"
+        },
+        {
+            "inicio": 102.36,
+            "fin": 106.04,
+            "texto": "y con la que me iba a dar más digas y no sé qué tal."
+        },
+        {
+            "inicio": 106.04,
+            "fin": 114.76,
+            "texto": "El caso que se hizo todo, les mandé lo que me pidieron, mi hijo les mandé la copia"
+        },
+        {
+            "inicio": 114.76,
+            "fin": 121.48,
+            "texto": "de su prevencial, un confirmante de domicilio actualizado, se hizo todo lo que se hiciera"
+        },
+        {
+            "inicio": 121.48,
+            "fin": 127.36,
+            "texto": "pero no, después me dijeron que no porque había una deuda y que si no pagaba la deuda"
+        },
+        {
+            "inicio": 127.36,
+            "fin": 132.96,
+            "texto": "pues no me daban el equipo y dije bueno, entonces le dije yo a la señorita que me"
+        },
+        {
+            "inicio": 132.96,
+            "fin": 139.28,
+            "texto": "hizo todo algo pues entonces sabe que regréseme a mi plan como estaba, si no me dan el"
+        },
+        {
+            "inicio": 139.28,
+            "fin": 143.28,
+            "texto": "equipo bueno no hay problema pero yo voy a seguir pagando lo que sigo pagando"
+        },
+        {
+            "inicio": 143.28,
+            "fin": 148.68,
+            "texto": "hasta ahora porque de hecho esa línea ya tiene varios años que se está pagando."
+        },
+        {
+            "inicio": 148.68,
+            "fin": 163.68,
+            "texto": "Yo la señorita que no me dijo la señorita que mi hijo porque mi hijo tiene una deuda"
+        },
+        {
+            "inicio": 163.68,
+            "fin": 167.88,
+            "texto": "de otra línea, no sé, lo que pasa es que mi hijo no está aquí, señor, después"
+        },
+        {
+            "inicio": 168.88,
+            "fin": 173.96,
+            "texto": "me dejó su teléfono, dice ahí tú lo sigues pagando y yo lo he pagado,"
+        },
+        {
+            "inicio": 173.96,
+            "fin": 178.76,
+            "texto": "yo mes con mes pago la línea."
+        },
+        {
+            "inicio": 197.88,
+            "fin": 225.76,
+            "texto": "Eso fue lo que, lo que me informó la persona señorita y ya bueno ya lo mandé todo,"
+        },
+        {
+            "inicio": 225.76,
+            "fin": 231.04,
+            "texto": "lo hizo todo pero ya se me dijo que no porque tenía yo que pagar el adeudo de mi"
+        },
+        {
+            "inicio": 231.04,
+            "fin": 236.72,
+            "texto": "hijo si no no me podían dar el equipo, entonces dije no, entonces sabe qué, entonces mejor"
+        },
+        {
+            "inicio": 236.72,
+            "fin": 244.12,
+            "texto": "por regréseme como estaba pero le digo que yo pagaba 155 y ahora pago más, ahora"
+        },
+        {
+            "inicio": 244.12,
+            "fin": 249.24,
+            "texto": "pago 385 y no me no me dieron nada."
+        },
+        {
+            "inicio": 249.24,
+            "fin": 260.52,
+            "texto": "El equipo ni beneficio ni nada entonces qué bueno así me quedo, ya que tomo se tiene que"
+        },
+        {
+            "inicio": 260.52,
+            "fin": 269.08,
+            "texto": "pagar y es que para liberar la línea, porque yo lo había comentado a mi hijo pues hay que"
+        },
+        {
+            "inicio": 269.08,
+            "fin": 276.08,
+            "texto": "liberar la línea pero tiene que estar él para ir allá a liberar la línea para que ya podamos"
+        },
+        {
+            "inicio": 276.08,
+            "fin": 278.84,
+            "texto": "cambiarnos de telefonía."
+        },
+        {
+            "inicio": 278.84,
+            "fin": 289.4,
+            "texto": "Lo que no queremos es perder el número, porque yo tengo un negocio y este número lo tienen"
+        },
+        {
+            "inicio": 289.4,
+            "fin": 290.6,
+            "texto": "todos mis clientes."
+        },
+        {
+            "inicio": 336.08,
+            "fin": 352.2,
+            "texto": "Pero cómo se podría hacer?"
+        },
+        {
+            "inicio": 352.2,
+            "fin": 363.04,
+            "texto": "Si lo que yo no quiero es perder este número señorita porque le digo que como hoy tengo"
+        },
+        {
+            "inicio": 363.04,
+            "fin": 368.16,
+            "texto": "clientes entonces todos mis clientes tienen este número, entonces digo lo de menos es"
+        },
+        {
+            "inicio": 368.16,
+            "fin": 375.08,
+            "texto": "agarrar y ya no lo utilicen, compro un chip y utilizo otro teléfono pero yo no quiero"
+        },
+        {
+            "inicio": 375.08,
+            "fin": 380.88,
+            "texto": "perder esta línea, no la quiero perder porque todos mis clientes lo tienen y pues es así"
+        },
+        {
+            "inicio": 380.88,
+            "fin": 399.08,
+            "texto": "como se comunican conmigo mis clientes."
+        },
+        {
+            "inicio": 410.88,
+            "fin": 430.24,
+            "texto": "Sí porque como robante del domicilio pues no tengo porque de hecho está en la línea"
+        },
+        {
+            "inicio": 430.24,
+            "fin": 433.6,
+            "texto": "de aquí del domicilio, está nombre de mi hijo."
+        },
+        {
+            "inicio": 440.88,
+            "fin": 460.08,
+            "texto": "Sí porque le digo que el comprobando la línea de la casa es a nombre de, tiene que estar"
+        },
+        {
+            "inicio": 460.08,
+            "fin": 461.08,
+            "texto": "a mi nombre."
+        },
+        {
+            "inicio": 461.08,
+            "fin": 471.08,
+            "texto": "No hay ningún problema, o sea yo le mando todo lo que me pido, le digo que yo así lo hice"
+        },
+        {
+            "inicio": 471.08,
+            "fin": 477.96,
+            "texto": "con la otra señorita que me estuvo atendiendo, le mandé mi la copia, bueno la copia de"
+        },
+        {
+            "inicio": 477.96,
+            "fin": 485.16,
+            "texto": "mis clientes del lector y le mandé el comprobante del domicilio y unos datos que me pidió"
+        }
+    ]
+}

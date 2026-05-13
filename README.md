@@ -1,57 +1,80 @@
-# 🎙️ QA-Whisper-CallCenters: Auditoría Inteligente de Calidad (Local AI)
 
-![Pipeline Status](https://img.shields.io/badge/Status-Production--Ready-green)
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![AI](https://img.shields.io/badge/Model-Faster--Whisper%20%2B%20Qwen2.5-orange)
+# 🎧 QA-Whisper: Motor de Auditoría Inteligente para Call Centers
 
-Este proyecto es una solución de **Ingeniería de Datos e Inteligencia Artificial** diseñada para automatizar la auditoría de calidad en Call Centers. Permite procesar miles de horas de audio de forma local, garantizando la privacidad de los datos y reduciendo drásticamente los costos operativos asociados a APIs de nube.
+Un pipeline de datos asíncrono y 100% local (On-Premise) diseñado para automatizar la auditoría de calidad (QA) de grabaciones de atención al cliente. Utiliza modelos fundacionales de audio (Speech-to-Text) y procesamiento de lenguaje natural (LLMs) para evaluar métricas de negocio sin intervención humana.
 
-##  Problema de Negocio
-En el sector de Call Centers (especialmente en Perú y Latinoamérica), auditar llamadas para control de calidad es un proceso manual y costoso. Las empresas suelen auditar menos del 1% de sus llamadas. Este sistema permite una **cobertura del 100%** mediante:
-- Detección automática de **Riesgo de Fuga (Churn)**.
-- Verificación de **Cumplimiento Comercial** (ofrecimiento de promociones).
-- Análisis de **Sentimiento y Tono** del cliente.
+## 📌 El Problema de Negocio
+Los Call Centers corporativos procesan miles de llamadas diarias, pero los supervisores humanos solo pueden auditar manualmente entre el 1% y el 2% de ellas. Esto genera "puntos ciegos" críticos:
+* Incumplimiento de guiones comerciales (no ofrecer tarjetas, seguros, etc.).
+* Fugas de clientes (Churn) o amenazas legales (Indecopi) que no se detectan a tiempo.
+* Alto costo y riesgo legal al enviar audios confidenciales a APIs públicas (Google Cloud, OpenAI) para su análisis.
 
-##  Arquitectura del Sistema
+## 🚀 La Solución Arquitectónica
+Este proyecto implementa una arquitectura de dos fases (Ingesta Analítica y Razonamiento Semántico) procesada enteramente en el servidor local de la empresa, garantizando **cero fugas de datos (Zero Data Leakage)**.
 
-El pipeline se divide en tres etapas críticas:
+### ✨ Características Clave
+* **Procesamiento de Audio Optimizado:** Utiliza `faster-whisper` (CTranslate2) para transcribir audios de forma acelerada usando CPU, reduciendo drásticamente los costos de hardware.
+* **Extracción Estructurada (JSON):** Desacopla el audio del análisis convirtiendo las llamadas en objetos JSON que retienen metadatos vitales (duración, idioma, marcas de tiempo).
+* **Análisis NLP (Zero-Shot):** En lugar de depender de reglas clásicas (RegEx) o diccionarios que fallan con el sarcasmo, utiliza **Qwen 2.5** (vía Ollama) para razonamiento semántico avanzado, detectando intención de fuga y sentimiento real.
+* **Reportes Ejecutivos Automatizados:** Transforma los resultados en un DataFrame de Pandas, exportando reportes en formato CSV (para análisis en Excel/BI) y Markdown.
 
-1.  **Procesamiento Multimedia:** Conversión de video/audio a formato optimizado (WAV 16kHz Mono) usando **FFmpeg**.
-2.  **Transcripción Sensorial:** Uso de `faster-whisper` (basado en CTranslate2) para una conversión de voz a texto 4x más rápida que el modelo original.
-3.  **Auditoría Cognitiva (LLM):** Inferencia local mediante **Ollama** utilizando el modelo **Qwen 2.5**, especializado en razonamiento semántico y detección de intención en español.
+## 🛠️ Stack Tecnológico
+* **Motor de Transcripción:** `faster-whisper` (OpenAI Whisper optimizado).
+* **Inteligencia Artificial (LLM):** Qwen 2.5 (Ejecutado localmente vía `Ollama`).
+* **Lenguaje & Transformación:** Python 3, `pandas`, `json`, `requests`.
+* **Manejo de Archivos:** `glob`, `os` (Lectura dinámica por lotes).
 
-##  A/B Testing: Qwen 2.5 vs. DeepSeek-Coder
-Durante el desarrollo, se realizó una comparativa de modelos para la tarea de auditoría:
+## ⚙️ Cómo ejecutar este proyecto localmente
 
-| Métrica | DeepSeek-Coder 6.7B | Qwen 2.5 (7B) |
-| :--- | :--- | :--- |
-| **Comprensión Semántica** | Media (Falsos positivos en Churn) | **Alta (Consistente)** |
-| **Precisión JSON** | Alta | Alta |
-| **Detección de Sarcasmo** | Baja | **Media-Alta** |
-| **Resultado** | Tiende a alucinar riesgos | **Recomendado para Producción** |
+1. **Preparar el entorno IA:**
+   Asegúrate de tener [Ollama](https://ollama.ai/) instalado y descarga el modelo Qwen:
+   ```bash
+   ollama pull qwen2.5
 
-##  Instalación
+```
 
-### Requisitos
-- Python 3.10+
-- FFmpeg
-- Ollama (con el modelo `qwen2.5` descargado)
-
-### Setup
+2. **Instalar dependencias de Python:**
 ```bash
 pip install faster-whisper pandas requests
 
-Ejecución:
+```
 
-Genera las transcripciones:
-Bash
+
+3. **Cargar los datos:**
+Coloca tus archivos de audio de Call Center (en formato `.wav`, preferiblemente a 16kHz y Mono) dentro de la carpeta `Audios/`.
+4. **Ejecutar el Pipeline:**
+* **Paso 1 (Ingesta):** Extrae el texto y los metadatos a formato JSON.
+```bash
 python3 transcriptor.py
 
-Ejecuta la auditoría inteligente:
-Bash
+```
+
+
+* **Paso 2 (Auditoría IA):** Analiza el contexto y genera el reporte comercial.
+```bash
 python3 auditor.py
 
+```
+
+
+
+
+
+## 📊 Ejemplo de Output (Reporte Ejecutivo)
+
+El sistema generará automáticamente un archivo `Reporte_QA_CallCenter.md` y un `.csv` con la siguiente estructura:
+
+| Archivo | Duración (s) | Riesgo Fuga (Churn) | Cumplió Venta | Sentimiento |
+| --- | --- | --- | --- | --- |
+| `audio1.wav` | 124.5 | 🔴 ALTO | ❌ No | Negativo |
+| `audio2.wav` | 45.2 | 🟢 Bajo | ✅ Sí | Positivo |
+
 ---
+
 > **Autor:** Jimmy Cristhian Cjuro Apaza
 > *Estudiante de Ingeniería de Software | UNMSM*
 > *Desarrollador enfocado en Data Engineering y Soluciones de IA aplicadas a la Industria.*
+
+```
+
+```

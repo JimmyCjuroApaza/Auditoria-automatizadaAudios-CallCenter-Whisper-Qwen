@@ -1,0 +1,226 @@
+{
+    "metadatos": {
+        "archivo_original": "audio9.wav",
+        "idioma_detectado": "es",
+        "confianza_idioma": 1,
+        "duracion_segundos": 507.36
+    },
+    "transcripcion_texto": "Yo no sé, pero me llamo, este es un poco... No, no lo sé. Yo creo que esto es para una cara, pero no lo sé. No, no. ¡No! ¡No, no! ¡No! ¡No! ¡No! ¡No! ¡No! ¡No! ¡No! ¡No! ¡No! ¡No! ¡No! ¡No! ¡No! ¡No! el motivo de esa llamada es porque estoy visualizando aquí en el sistema que usted ya pueda hacer la renovación de su línea adquiriendo la nueva red 5G señorita. ¿Algún motivo por el cual no ha hecho aún su renovación? Ay señorita, disculpe, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara? Ay señorita, ¿no lo fue su plan el que usted le renovara?",
+    "timeline": [
+        {
+            "inicio": 0.0,
+            "fin": 5.24,
+            "texto": "Yo no sé, pero me llamo, este es un poco..."
+        },
+        {
+            "inicio": 5.24,
+            "fin": 7.38,
+            "texto": "No, no lo sé."
+        },
+        {
+            "inicio": 7.38,
+            "fin": 12.24,
+            "texto": "Yo creo que esto es para una cara, pero no lo sé."
+        },
+        {
+            "inicio": 12.24,
+            "fin": 13.48,
+            "texto": "No, no."
+        },
+        {
+            "inicio": 13.48,
+            "fin": 14.48,
+            "texto": "¡No!"
+        },
+        {
+            "inicio": 14.48,
+            "fin": 15.48,
+            "texto": "¡No, no!"
+        },
+        {
+            "inicio": 15.48,
+            "fin": 16.48,
+            "texto": "¡No!"
+        },
+        {
+            "inicio": 16.48,
+            "fin": 17.48,
+            "texto": "¡No!"
+        },
+        {
+            "inicio": 17.48,
+            "fin": 18.48,
+            "texto": "¡No!"
+        },
+        {
+            "inicio": 18.48,
+            "fin": 19.48,
+            "texto": "¡No!"
+        },
+        {
+            "inicio": 19.48,
+            "fin": 20.48,
+            "texto": "¡No!"
+        },
+        {
+            "inicio": 20.48,
+            "fin": 21.48,
+            "texto": "¡No!"
+        },
+        {
+            "inicio": 21.48,
+            "fin": 22.48,
+            "texto": "¡No!"
+        },
+        {
+            "inicio": 22.48,
+            "fin": 23.48,
+            "texto": "¡No!"
+        },
+        {
+            "inicio": 23.48,
+            "fin": 24.48,
+            "texto": "¡No!"
+        },
+        {
+            "inicio": 24.48,
+            "fin": 25.48,
+            "texto": "¡No!"
+        },
+        {
+            "inicio": 25.48,
+            "fin": 26.48,
+            "texto": "¡No!"
+        },
+        {
+            "inicio": 26.48,
+            "fin": 27.48,
+            "texto": "¡No!"
+        },
+        {
+            "inicio": 27.48,
+            "fin": 28.48,
+            "texto": "¡No!"
+        },
+        {
+            "inicio": 28.48,
+            "fin": 29.48,
+            "texto": "¡No!"
+        },
+        {
+            "inicio": 29.48,
+            "fin": 33.2,
+            "texto": "el motivo de esa llamada es porque estoy visualizando aquí en el sistema que usted ya pueda hacer la"
+        },
+        {
+            "inicio": 33.2,
+            "fin": 38.04,
+            "texto": "renovación de su línea adquiriendo la nueva red 5G señorita. ¿Algún motivo por el cual no ha hecho"
+        },
+        {
+            "inicio": 38.04,
+            "fin": 38.88,
+            "texto": "aún su renovación?"
+        },
+        {
+            "inicio": 59.48,
+            "fin": 88.36,
+            "texto": "Ay señorita, disculpe, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 88.36,
+            "fin": 90.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 118.36,
+            "fin": 120.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 148.36,
+            "fin": 158.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 178.36,
+            "fin": 204.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 204.36,
+            "fin": 218.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 234.36,
+            "fin": 252.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 264.36,
+            "fin": 291.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 291.36,
+            "fin": 320.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 320.36,
+            "fin": 349.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 350.36,
+            "fin": 358.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 381.36,
+            "fin": 391.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 391.36,
+            "fin": 402.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 402.36,
+            "fin": 427.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 432.36,
+            "fin": 447.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 447.36,
+            "fin": 458.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 458.36,
+            "fin": 465.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 465.36,
+            "fin": 487.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 487.36,
+            "fin": 497.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        },
+        {
+            "inicio": 497.36,
+            "fin": 507.36,
+            "texto": "Ay señorita, ¿no lo fue su plan el que usted le renovara?"
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "metadatos": {
+        "archivo_original": "audio7.wav",
+        "idioma_detectado": "es",
+        "confianza_idioma": 1,
+        "duracion_segundos": 357.0
+    },
+    "transcripcion_texto": "Hola, buenas tardes. Mi nombre es... ¿cuánto en día de hoy? Hola, bienvenido. Gracias. Esa me alegra muchísimo. Es pisarlo. Me podré conectar con la señorita... Por favor. ¿A usted es el usuario de la línea de disculpe? Perfecto. ¿Con quién tengo el gusto de disculpe? Ah, señor... El motivo de mi llamada es porque me aparece el sistema que ustedes, como clientes, tienes ahí... Ya pueden estar obteniendo mayores beneficios en lo que es línea y estar pagando menos en lo que es una ensalada. ¿Tienes también implementado esto anteriormente o es la primera vez? No. ¿Quién le indicó a un señor mío? Sí, comentaron, señor mío. El vez de mi 11S. Entonces, aparte, ¿qué le ofrecieron, caballero? ¿Qué le ofrecieron pagar menos lo que es su mensualidad? Ah, ok. ¿Le ofrecieron lo que es el arma de los cinco que le está dando GPS en navegación? Ya que usted está teniendo cinco, ¿es correcto? Perfecto. Mire, de hecho, yo le estaría dando lo que sería 10 gigas en navegación, prácticamente cinco más. Me estaría dando lo que sería cinco redes sociales limitadas, prácticamente seis. ¿Por qué? Porque Facebook y Messenger ya se están incluyendo una sola. Además, ¿cómo beneficios usted en lo que es la aplicación TikTok en este momento? Ya cuenta con una red social totalmente limitada. Trácticamente tres más de tres minutos, también estaría diciendo usted que puede ser... Ahora que usted la inicie su red y las de entre... ¿Cómo beneficia para que usted esté contento? Pues, el mes dos usted no lo va a pagar, lo va a pagar lo que es una empresa, así como una estación. Y todo eso, ¿usted, caballero, usted, ¿paga lo que es en efectivo o domiciliado a lo que es su tarjeta desde mi aplicación? Ah, perfecto. Aun así, tendré un respuesta. Básicamente vendría pagando lo que es cuatro setenta y nueve, ya que el sistema me aparece que está pagando setecientosincuenta y seis punto tres. ¿Es correcto? Bueno, a mí me aparece un sistema que tiene lo que es en la línea en lo que se consigue los tres, que es un plan ya muy antiguo con nosotros. Está recibiendo cinco gigabytes, como el comento. Y pues, prácticamente me parece que son siete cincuenta y seis la última factura. ¿Qué sería los... bueno, del plan son los cuatrocientos ochenta y cinco del consigue lo tres. Ok, sí, y de hecho si el domiciliado sí baja, prácticamente le quedaría como cuatrocientosincuenta, pero sí me aparece, como le comento aquí, el siguiente sistema me aparece lo que es los setecientosincuenta y seis. Ahorita lo estoy chequeando el sistema, lo que es la factura, para que usted no tenga, ahora sí que duda de esto. Ah, el teléfono que ya adquirió, cuando adquirió lo que sería el plan, adquirió lo que es un equipo con costos, ¿correcto? Ok, ¿qué sería lo que sería haciendo lo que es el equipo? Buen, cuy yo por cuy cien. Ah, ok, perfecto, ok. De hecho, ya está quedando lo que es el equipo. Y como le comentaba mi compañero, como se lo recuerdo, el equipo que le estamos dando sería totalmente sin costos. No hay problema en lo que hará con él, si lo quiere regalar, vender o tener una emergencia, pues no hay problema, prácticamente ahorita no pagaría nada por el equipo, el equipo se le estará dando en promoción, por ser ya clientes de años con nosotros, y pues prácticamente estaría pagando a los cuatrocientosincuenta y nueve como el indico caballero, pero ya estarían, ahora que copriendo los diez gigas de navegación, ya no cinco como actualmente. Si, ¿qué le parece si yo me mando un mensaje y le mando las, ahora sí que los dos equipos con sus características, y usted ya deciría que equipo sería. Si, le mando también lo que sería la imagen del plan, y pues domiciliado ustedes tenían la oferta que les comento y el mes 12 también se lo estarían viendo para que usted lo visualice, junto con su esposa, y ya me mando un mensaje por ahí para ya confirmarme, ¿de acuerdo? Ok, perfecto, pero en serio, mi nombre ya, y voy a hacer eso, soy personalizado, que tenga excelente vida, caballero. Hasta luego.",
+    "timeline": [
+        {
+            "inicio": 0.0,
+            "fin": 25.0,
+            "texto": "Hola, buenas tardes. Mi nombre es... ¿cuánto en día de hoy?"
+        },
+        {
+            "inicio": 25.0,
+            "fin": 27.0,
+            "texto": "Hola, bienvenido. Gracias."
+        },
+        {
+            "inicio": 27.0,
+            "fin": 32.0,
+            "texto": "Esa me alegra muchísimo. Es pisarlo. Me podré conectar con la señorita..."
+        },
+        {
+            "inicio": 32.0,
+            "fin": 35.0,
+            "texto": "Por favor."
+        },
+        {
+            "inicio": 35.0,
+            "fin": 40.0,
+            "texto": "¿A usted es el usuario de la línea de disculpe?"
+        },
+        {
+            "inicio": 40.0,
+            "fin": 45.0,
+            "texto": "Perfecto. ¿Con quién tengo el gusto de disculpe?"
+        },
+        {
+            "inicio": 45.0,
+            "fin": 52.0,
+            "texto": "Ah, señor... El motivo de mi llamada es porque me aparece el sistema que ustedes, como clientes, tienes ahí..."
+        },
+        {
+            "inicio": 52.0,
+            "fin": 58.0,
+            "texto": "Ya pueden estar obteniendo mayores beneficios en lo que es línea y estar pagando menos en lo que es una ensalada."
+        },
+        {
+            "inicio": 58.0,
+            "fin": 65.0,
+            "texto": "¿Tienes también implementado esto anteriormente o es la primera vez?"
+        },
+        {
+            "inicio": 65.0,
+            "fin": 70.0,
+            "texto": "No. ¿Quién le indicó a un señor mío?"
+        },
+        {
+            "inicio": 70.0,
+            "fin": 80.0,
+            "texto": "Sí, comentaron, señor mío."
+        },
+        {
+            "inicio": 80.0,
+            "fin": 86.0,
+            "texto": "El vez de mi 11S."
+        },
+        {
+            "inicio": 86.0,
+            "fin": 91.0,
+            "texto": "Entonces, aparte, ¿qué le ofrecieron, caballero?"
+        },
+        {
+            "inicio": 91.0,
+            "fin": 104.0,
+            "texto": "¿Qué le ofrecieron pagar menos lo que es su mensualidad?"
+        },
+        {
+            "inicio": 104.0,
+            "fin": 109.0,
+            "texto": "Ah, ok. ¿Le ofrecieron lo que es el arma de los cinco que le está dando GPS en navegación?"
+        },
+        {
+            "inicio": 109.0,
+            "fin": 114.0,
+            "texto": "Ya que usted está teniendo cinco, ¿es correcto?"
+        },
+        {
+            "inicio": 114.0,
+            "fin": 122.0,
+            "texto": "Perfecto. Mire, de hecho, yo le estaría dando lo que sería 10 gigas en navegación, prácticamente cinco más."
+        },
+        {
+            "inicio": 122.0,
+            "fin": 127.0,
+            "texto": "Me estaría dando lo que sería cinco redes sociales limitadas, prácticamente seis. ¿Por qué?"
+        },
+        {
+            "inicio": 127.0,
+            "fin": 130.0,
+            "texto": "Porque Facebook y Messenger ya se están incluyendo una sola."
+        },
+        {
+            "inicio": 130.0,
+            "fin": 135.0,
+            "texto": "Además, ¿cómo beneficios usted en lo que es la aplicación TikTok en este momento?"
+        },
+        {
+            "inicio": 135.0,
+            "fin": 138.0,
+            "texto": "Ya cuenta con una red social totalmente limitada."
+        },
+        {
+            "inicio": 138.0,
+            "fin": 146.0,
+            "texto": "Trácticamente tres más de tres minutos, también estaría diciendo usted que puede ser..."
+        },
+        {
+            "inicio": 146.0,
+            "fin": 150.0,
+            "texto": "Ahora que usted la inicie su red y las de entre..."
+        },
+        {
+            "inicio": 150.0,
+            "fin": 153.0,
+            "texto": "¿Cómo beneficia para que usted esté contento?"
+        },
+        {
+            "inicio": 153.0,
+            "fin": 159.0,
+            "texto": "Pues, el mes dos usted no lo va a pagar, lo va a pagar lo que es una empresa, así como una estación."
+        },
+        {
+            "inicio": 159.0,
+            "fin": 171.0,
+            "texto": "Y todo eso, ¿usted, caballero, usted, ¿paga lo que es en efectivo o domiciliado a lo que es su tarjeta desde mi aplicación?"
+        },
+        {
+            "inicio": 171.0,
+            "fin": 174.0,
+            "texto": "Ah, perfecto. Aun así, tendré un respuesta."
+        },
+        {
+            "inicio": 174.0,
+            "fin": 187.0,
+            "texto": "Básicamente vendría pagando lo que es cuatro setenta y nueve, ya que el sistema me aparece que está pagando setecientosincuenta y seis punto tres. ¿Es correcto?"
+        },
+        {
+            "inicio": 187.0,
+            "fin": 195.0,
+            "texto": "Bueno, a mí me aparece un sistema que tiene lo que es en la línea en lo que se consigue los tres, que es un plan ya muy antiguo con nosotros."
+        },
+        {
+            "inicio": 195.0,
+            "fin": 198.0,
+            "texto": "Está recibiendo cinco gigabytes, como el comento."
+        },
+        {
+            "inicio": 198.0,
+            "fin": 203.0,
+            "texto": "Y pues, prácticamente me parece que son siete cincuenta y seis la última factura."
+        },
+        {
+            "inicio": 203.0,
+            "fin": 216.0,
+            "texto": "¿Qué sería los... bueno, del plan son los cuatrocientos ochenta y cinco del consigue lo tres."
+        },
+        {
+            "inicio": 216.0,
+            "fin": 225.0,
+            "texto": "Ok, sí, y de hecho si el domiciliado sí baja, prácticamente le quedaría como cuatrocientosincuenta,"
+        },
+        {
+            "inicio": 225.0,
+            "fin": 232.0,
+            "texto": "pero sí me aparece, como le comento aquí, el siguiente sistema me aparece lo que es los setecientosincuenta y seis."
+        },
+        {
+            "inicio": 232.0,
+            "fin": 239.0,
+            "texto": "Ahorita lo estoy chequeando el sistema, lo que es la factura, para que usted no tenga, ahora sí que duda de esto."
+        },
+        {
+            "inicio": 249.0,
+            "fin": 257.0,
+            "texto": "Ah, el teléfono que ya adquirió, cuando adquirió lo que sería el plan, adquirió lo que es un equipo con costos, ¿correcto?"
+        },
+        {
+            "inicio": 258.0,
+            "fin": 263.0,
+            "texto": "Ok, ¿qué sería lo que sería haciendo lo que es el equipo?"
+        },
+        {
+            "inicio": 263.0,
+            "fin": 265.0,
+            "texto": "Buen, cuy yo por cuy cien."
+        },
+        {
+            "inicio": 267.0,
+            "fin": 269.0,
+            "texto": "Ah, ok, perfecto, ok."
+        },
+        {
+            "inicio": 271.0,
+            "fin": 274.0,
+            "texto": "De hecho, ya está quedando lo que es el equipo."
+        },
+        {
+            "inicio": 274.0,
+            "fin": 282.0,
+            "texto": "Y como le comentaba mi compañero, como se lo recuerdo, el equipo que le estamos dando sería totalmente sin costos."
+        },
+        {
+            "inicio": 282.0,
+            "fin": 292.0,
+            "texto": "No hay problema en lo que hará con él, si lo quiere regalar, vender o tener una emergencia, pues no hay problema, prácticamente ahorita no pagaría nada por el equipo,"
+        },
+        {
+            "inicio": 292.0,
+            "fin": 300.0,
+            "texto": "el equipo se le estará dando en promoción, por ser ya clientes de años con nosotros, y pues prácticamente estaría pagando a los cuatrocientosincuenta y nueve como el indico caballero,"
+        },
+        {
+            "inicio": 300.0,
+            "fin": 305.0,
+            "texto": "pero ya estarían, ahora que copriendo los diez gigas de navegación, ya no cinco como actualmente."
+        },
+        {
+            "inicio": 313.0,
+            "fin": 324.0,
+            "texto": "Si, ¿qué le parece si yo me mando un mensaje y le mando las, ahora sí que los dos equipos con sus características, y usted ya deciría que equipo sería."
+        },
+        {
+            "inicio": 327.0,
+            "fin": 338.0,
+            "texto": "Si, le mando también lo que sería la imagen del plan, y pues domiciliado ustedes tenían la oferta que les comento y el mes 12 también se lo estarían viendo para que usted lo visualice,"
+        },
+        {
+            "inicio": 338.0,
+            "fin": 344.0,
+            "texto": "junto con su esposa, y ya me mando un mensaje por ahí para ya confirmarme, ¿de acuerdo?"
+        },
+        {
+            "inicio": 346.0,
+            "fin": 354.0,
+            "texto": "Ok, perfecto, pero en serio, mi nombre ya, y voy a hacer eso, soy personalizado, que tenga excelente vida, caballero."
+        },
+        {
+            "inicio": 356.0,
+            "fin": 357.0,
+            "texto": "Hasta luego."
+        }
+    ]
+}

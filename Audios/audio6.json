@@ -1,0 +1,181 @@
+{
+    "metadatos": {
+        "archivo_original": "audio6.wav",
+        "idioma_detectado": "es",
+        "confianza_idioma": 1,
+        "duracion_segundos": 478.0
+    },
+    "transcripcion_texto": "¡Venga! Análisis Venga Bueno ¡Merci! ¡Muy bien! Bueno, qué gracia... ¡Buen... de la www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org www.mooji.org",
+    "timeline": [
+        {
+            "inicio": 0.0,
+            "fin": 2.0,
+            "texto": "¡Venga!"
+        },
+        {
+            "inicio": 2.0,
+            "fin": 3.0,
+            "texto": "Análisis"
+        },
+        {
+            "inicio": 3.0,
+            "fin": 4.0,
+            "texto": "Venga"
+        },
+        {
+            "inicio": 4.0,
+            "fin": 5.0,
+            "texto": "Bueno"
+        },
+        {
+            "inicio": 5.0,
+            "fin": 6.0,
+            "texto": "¡Merci!"
+        },
+        {
+            "inicio": 6.0,
+            "fin": 8.0,
+            "texto": "¡Muy bien!"
+        },
+        {
+            "inicio": 8.0,
+            "fin": 12.0,
+            "texto": "Bueno, qué gracia..."
+        },
+        {
+            "inicio": 12.0,
+            "fin": 14.0,
+            "texto": "¡Buen..."
+        },
+        {
+            "inicio": 60.0,
+            "fin": 63.98,
+            "texto": "de la"
+        },
+        {
+            "inicio": 150.0,
+            "fin": 152.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 180.0,
+            "fin": 182.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 210.0,
+            "fin": 212.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 240.0,
+            "fin": 242.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 270.0,
+            "fin": 272.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 300.0,
+            "fin": 322.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 322.0,
+            "fin": 324.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 324.0,
+            "fin": 328.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 328.0,
+            "fin": 330.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 358.0,
+            "fin": 360.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 360.0,
+            "fin": 362.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 362.0,
+            "fin": 364.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 364.0,
+            "fin": 366.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 366.0,
+            "fin": 368.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 368.0,
+            "fin": 370.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 370.0,
+            "fin": 372.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 372.0,
+            "fin": 374.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 374.0,
+            "fin": 376.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 376.0,
+            "fin": 378.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 378.0,
+            "fin": 380.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 380.0,
+            "fin": 382.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 382.0,
+            "fin": 384.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 384.0,
+            "fin": 386.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 446.0,
+            "fin": 448.0,
+            "texto": "www.mooji.org"
+        },
+        {
+            "inicio": 476.0,
+            "fin": 478.0,
+            "texto": "www.mooji.org"
+        }
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "metadatos": {
+        "archivo_original": "audio8.wav",
+        "idioma_detectado": "es",
+        "confianza_idioma": 1,
+        "duracion_segundos": 694.0
+    },
+    "transcripcion_texto": "Hola, si ya hablas, si ya hablas, si ya hablas. ¿Si ya hablas? Eh, no. Si es correcto. ¿Que? Contrajeto. Si, de hecho ya estaba pensando en llamar porque ya estaba por concluir mi plan. Así es. O sea, bajar mi mensualidad, pero no me había comunicado y tampoco había acudido algunos cursos. ¿Cómo podría continuar con el trámite? ¿Cómo podías acudir con eso? Ok, perfecto. Ok. No, perdón, hace como dos o tres años me ofrecieron un equipo. Pero este tuve que pagar el diferencial de manera anual, una diferencia mínima. Es que es lo mismo para eso. Ah, ok, perfecto. Ah, ok, perfecto. Subtítulos realizados por la comunidad de Amara.org Ah, ok, perfecto. ¿Me podría estopartir los otros dos equipos que me mencionas, por favor? Ok, perfecto. Te agradezco mucho. Ya, los equipos. Disculpa, este número, bueno, a ver, que me estoy mandando. Me puedo comunicar contigo ya que decir a qué equipo. Perfecto. Sí, sería el paquete de Armado 5, pero únicamente estaría verificando qué tipo sería el que es. Sí, la característica, no estoy muy familiarizada, entonces me gustaría como ver un poquito más. Ah, ok, perfecto. De redes ilimitadas, bueno, sería... Sí, por favor. Este sería... Sí, sería... Me comentaba que también entra, ¿verdad? Por favor. Ah, ok, perfecto. Te agradezco que me comentes para tenerlo en cuenta. Ay, de entretenimiento, sí. Sí, sería... Por favor. Ok. Yo creo que tienes... Sí, sería... No, ninguna, ya únicamente sería... Bueno, por eso se confirmaría el equipo. Ok. Y la lección, por favor. Ah, ok, perfecto. Sí. Le podemos estar. Si el pago es mediante la aplicación o hay alguna línea de captura... Sí, por favor. Ok. Sí, te agradezco muchísimo. Sí, se confirmó la dirección. Esculpa. Perfecto mucho. Sí, claro, muchas gracias. Ya en cuanto reciba llamada de otro agente de... Ya, realmente, ya tengo el trámite contigo. Pues, vida siempre le dio que ya tengo el trámite con otra persona. Muchas gracias. Muchas gracias igualmente. Muy amable. Hasta luego.",
+    "timeline": [
+        {
+            "inicio": 0.0,
+            "fin": 29.0,
+            "texto": "Hola, si ya hablas, si ya hablas, si ya hablas."
+        },
+        {
+            "inicio": 29.0,
+            "fin": 31.0,
+            "texto": "¿Si ya hablas?"
+        },
+        {
+            "inicio": 42.6,
+            "fin": 44.6,
+            "texto": "Eh, no."
+        },
+        {
+            "inicio": 55.4,
+            "fin": 57.4,
+            "texto": "Si es correcto."
+        },
+        {
+            "inicio": 59.0,
+            "fin": 61.0,
+            "texto": "¿Que?"
+        },
+        {
+            "inicio": 85.0,
+            "fin": 87.0,
+            "texto": "Contrajeto."
+        },
+        {
+            "inicio": 89.0,
+            "fin": 105.0,
+            "texto": "Si, de hecho ya estaba pensando en llamar porque ya estaba por concluir mi plan."
+        },
+        {
+            "inicio": 105.0,
+            "fin": 107.0,
+            "texto": "Así es."
+        },
+        {
+            "inicio": 107.0,
+            "fin": 113.0,
+            "texto": "O sea, bajar mi mensualidad, pero no me había comunicado y tampoco había acudido algunos cursos."
+        },
+        {
+            "inicio": 113.0,
+            "fin": 117.0,
+            "texto": "¿Cómo podría continuar con el trámite? ¿Cómo podías acudir con eso?"
+        },
+        {
+            "inicio": 117.0,
+            "fin": 119.0,
+            "texto": "Ok, perfecto."
+        },
+        {
+            "inicio": 148.0,
+            "fin": 150.0,
+            "texto": "Ok."
+        },
+        {
+            "inicio": 180.0,
+            "fin": 186.0,
+            "texto": "No, perdón, hace como dos o tres años me ofrecieron un equipo."
+        },
+        {
+            "inicio": 186.0,
+            "fin": 194.0,
+            "texto": "Pero este tuve que pagar el diferencial de manera anual, una diferencia mínima."
+        },
+        {
+            "inicio": 194.0,
+            "fin": 196.0,
+            "texto": "Es que es lo mismo para eso."
+        },
+        {
+            "inicio": 210.0,
+            "fin": 224.0,
+            "texto": "Ah, ok, perfecto."
+        },
+        {
+            "inicio": 224.0,
+            "fin": 240.0,
+            "texto": "Ah, ok, perfecto."
+        },
+        {
+            "inicio": 254.0,
+            "fin": 258.0,
+            "texto": "Subtítulos realizados por la comunidad de Amara.org"
+        },
+        {
+            "inicio": 284.0,
+            "fin": 296.0,
+            "texto": "Ah, ok, perfecto. ¿Me podría estopartir los otros dos equipos que me mencionas, por favor?"
+        },
+        {
+            "inicio": 314.0,
+            "fin": 332.0,
+            "texto": "Ok, perfecto."
+        },
+        {
+            "inicio": 332.0,
+            "fin": 338.0,
+            "texto": "Te agradezco mucho."
+        },
+        {
+            "inicio": 338.0,
+            "fin": 343.0,
+            "texto": "Ya, los equipos. Disculpa, este número, bueno, a ver, que me estoy mandando."
+        },
+        {
+            "inicio": 343.0,
+            "fin": 347.0,
+            "texto": "Me puedo comunicar contigo ya que decir a qué equipo."
+        },
+        {
+            "inicio": 368.0,
+            "fin": 383.0,
+            "texto": "Perfecto."
+        },
+        {
+            "inicio": 383.0,
+            "fin": 391.0,
+            "texto": "Sí, sería el paquete de Armado 5, pero únicamente estaría verificando qué tipo sería el que es."
+        },
+        {
+            "inicio": 391.0,
+            "fin": 420.0,
+            "texto": "Sí, la característica, no estoy muy familiarizada, entonces me gustaría como ver un poquito más."
+        },
+        {
+            "inicio": 420.0,
+            "fin": 424.0,
+            "texto": "Ah, ok, perfecto."
+        },
+        {
+            "inicio": 424.0,
+            "fin": 438.0,
+            "texto": "De redes ilimitadas, bueno, sería..."
+        },
+        {
+            "inicio": 438.0,
+            "fin": 443.0,
+            "texto": "Sí, por favor."
+        },
+        {
+            "inicio": 443.0,
+            "fin": 468.0,
+            "texto": "Este sería... Sí, sería... Me comentaba que también entra, ¿verdad?"
+        },
+        {
+            "inicio": 468.0,
+            "fin": 487.0,
+            "texto": "Por favor."
+        },
+        {
+            "inicio": 487.0,
+            "fin": 516.0,
+            "texto": "Ah, ok, perfecto. Te agradezco que me comentes para tenerlo en cuenta."
+        },
+        {
+            "inicio": 516.0,
+            "fin": 523.0,
+            "texto": "Ay, de entretenimiento, sí."
+        },
+        {
+            "inicio": 523.0,
+            "fin": 526.0,
+            "texto": "Sí, sería... Por favor."
+        },
+        {
+            "inicio": 526.0,
+            "fin": 527.0,
+            "texto": "Ok."
+        },
+        {
+            "inicio": 527.0,
+            "fin": 532.0,
+            "texto": "Yo creo que tienes..."
+        },
+        {
+            "inicio": 532.0,
+            "fin": 542.0,
+            "texto": "Sí, sería..."
+        },
+        {
+            "inicio": 542.0,
+            "fin": 549.0,
+            "texto": "No, ninguna, ya únicamente sería... Bueno, por eso se confirmaría el equipo."
+        },
+        {
+            "inicio": 549.0,
+            "fin": 550.0,
+            "texto": "Ok."
+        },
+        {
+            "inicio": 550.0,
+            "fin": 570.0,
+            "texto": "Y la lección, por favor."
+        },
+        {
+            "inicio": 570.0,
+            "fin": 571.0,
+            "texto": "Ah, ok, perfecto."
+        },
+        {
+            "inicio": 571.0,
+            "fin": 572.0,
+            "texto": "Sí."
+        },
+        {
+            "inicio": 572.0,
+            "fin": 573.0,
+            "texto": "Le podemos estar."
+        },
+        {
+            "inicio": 573.0,
+            "fin": 576.0,
+            "texto": "Si el pago es mediante la aplicación o hay alguna línea de captura..."
+        },
+        {
+            "inicio": 600.0,
+            "fin": 607.0,
+            "texto": "Sí, por favor."
+        },
+        {
+            "inicio": 607.0,
+            "fin": 616.0,
+            "texto": "Ok."
+        },
+        {
+            "inicio": 616.0,
+            "fin": 635.0,
+            "texto": "Sí, te agradezco muchísimo."
+        },
+        {
+            "inicio": 635.0,
+            "fin": 645.0,
+            "texto": "Sí, se confirmó la dirección."
+        },
+        {
+            "inicio": 645.0,
+            "fin": 659.0,
+            "texto": "Esculpa."
+        },
+        {
+            "inicio": 659.0,
+            "fin": 673.0,
+            "texto": "Perfecto mucho."
+        },
+        {
+            "inicio": 673.0,
+            "fin": 674.0,
+            "texto": "Sí, claro, muchas gracias."
+        },
+        {
+            "inicio": 674.0,
+            "fin": 677.0,
+            "texto": "Ya en cuanto reciba llamada de otro agente de..."
+        },
+        {
+            "inicio": 677.0,
+            "fin": 679.0,
+            "texto": "Ya, realmente, ya tengo el trámite contigo."
+        },
+        {
+            "inicio": 679.0,
+            "fin": 683.0,
+            "texto": "Pues, vida siempre le dio que ya tengo el trámite con otra persona."
+        },
+        {
+            "inicio": 683.0,
+            "fin": 690.0,
+            "texto": "Muchas gracias."
+        },
+        {
+            "inicio": 690.0,
+            "fin": 692.0,
+            "texto": "Muchas gracias igualmente."
+        },
+        {
+            "inicio": 692.0,
+            "fin": 693.0,
+            "texto": "Muy amable."
+        },
+        {
+            "inicio": 693.0,
+            "fin": 694.0,
+            "texto": "Hasta luego."
+        }
+    ]
+}

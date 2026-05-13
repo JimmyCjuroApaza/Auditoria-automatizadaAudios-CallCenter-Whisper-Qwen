@@ -1,0 +1,71 @@
+{
+    "metadatos": {
+        "archivo_original": "audio3.wav",
+        "idioma_detectado": "es",
+        "confianza_idioma": 1,
+        "duracion_segundos": 42.52
+    },
+    "transcripcion_texto": "Ok, ya estamos por terminar solamente aceptar los términos y condiciones. No, no los he leído. Si mire, este para continuar con el proceso necesitamos que acepte los términos y condiciones en la llamada, solamente diga que sí y ya quedan aceptados. No, creo que primero tengo que leerlos, ¿correcto? ¿Cómo voy a aceptar algo que no he leído? Ok, en ese caso, puedo ir a la página web, ahí va a encontrar el archivo, los le, y ya nos vuelvo a hablar y repetimos el proceso sin ningún problema. Me gustaría terminar el proceso en estos momentos. Ok, para continuar con el proceso en este momento, necesito que acepte los términos y condiciones, ¿ok? No, no, no, los voy a leer primero. Como usted guste, hasta luego.",
+    "timeline": [
+        {
+            "inicio": 0.0,
+            "fin": 4.54,
+            "texto": "Ok, ya estamos por terminar solamente aceptar los términos y condiciones."
+        },
+        {
+            "inicio": 4.54,
+            "fin": 7.42,
+            "texto": "No, no los he leído."
+        },
+        {
+            "inicio": 7.42,
+            "fin": 11.78,
+            "texto": "Si mire, este para continuar con el proceso necesitamos que acepte los términos y condiciones"
+        },
+        {
+            "inicio": 11.78,
+            "fin": 15.86,
+            "texto": "en la llamada, solamente diga que sí y ya quedan aceptados."
+        },
+        {
+            "inicio": 15.86,
+            "fin": 19.58,
+            "texto": "No, creo que primero tengo que leerlos, ¿correcto?"
+        },
+        {
+            "inicio": 19.58,
+            "fin": 22.14,
+            "texto": "¿Cómo voy a aceptar algo que no he leído?"
+        },
+        {
+            "inicio": 22.14,
+            "fin": 26.9,
+            "texto": "Ok, en ese caso, puedo ir a la página web, ahí va a encontrar el archivo, los le,"
+        },
+        {
+            "inicio": 26.92,
+            "fin": 30.02,
+            "texto": "y ya nos vuelvo a hablar y repetimos el proceso sin ningún problema."
+        },
+        {
+            "inicio": 30.02,
+            "fin": 32.32,
+            "texto": "Me gustaría terminar el proceso en estos momentos."
+        },
+        {
+            "inicio": 32.32,
+            "fin": 37.9,
+            "texto": "Ok, para continuar con el proceso en este momento, necesito que acepte los términos y condiciones, ¿ok?"
+        },
+        {
+            "inicio": 37.9,
+            "fin": 40.02,
+            "texto": "No, no, no, los voy a leer primero."
+        },
+        {
+            "inicio": 40.02,
+            "fin": 42.52,
+            "texto": "Como usted guste, hasta luego."
+        }
+    ]
+}
