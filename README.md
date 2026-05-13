@@ -1,5 +1,5 @@
 
-# 🎧 Motor de Auditoría Inteligente para Call Centers
+# 🎧 AI Agent de Auditoría Inteligente de Llamadas para Call Centers
 
 Un pipeline de datos asíncrono y 100% local (On-Premise) diseñado para automatizar la auditoría de calidad (QA) de grabaciones de atención al cliente. Utiliza modelos IA de codigo abierto para audio (Speech-to-Text) con Whisper de OpenIA y procesamiento de lenguaje natural (LLMs) con Qwen de Alibaba para evaluar métricas de negocio sin intervención humana.
 
