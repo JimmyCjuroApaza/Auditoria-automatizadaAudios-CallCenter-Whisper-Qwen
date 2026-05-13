@@ -64,17 +64,14 @@ python3 auditor.py
 
 El sistema generará automáticamente un archivo `Reporte_QA_CallCenter.md` y un `.csv` con la siguiente estructura:
 
-| Archivo | Duración (s) | Riesgo Fuga (Churn) | Cumplió Venta | Sentimiento |
-| --- | --- | --- | --- | --- |
-| `audio1.wav` | 124.5 | 🔴 ALTO | ❌ No | Negativo |
-| `audio2.wav` | 45.2 | 🟢 Bajo | ✅ Sí | Positivo |
+![reporte](https://img/reporte.png)
 
 ---
 
 > **Autor:** Jimmy Cristhian Cjuro Apaza
 > *Estudiante de Ingeniería de Software | UNMSM*
 > *Desarrollador enfocado en Data Engineering y Soluciones de IA aplicadas a la Industria.*
-
+git
 ```
 
 ```
